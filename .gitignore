@@ -25,3 +25,6 @@ replay_pid*
 
 # IDEA IDE files
 .idea*
+
+# Python cache
+*__pycache__*
